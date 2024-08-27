@@ -2,7 +2,7 @@
 
 ![logo](https://github.com/NaveenInsight/Adhoc-Insights/blob/main/Adhoc_Insights.png)
 
-[Link to Presentation](https://www.youtube.com/watch?v=maa8xMoaB9k)
+[Link to Presentation](https://www.youtube.com/watch?v=tv2cSjAZZtY)
 
 Domain : Consumer Goods
 
